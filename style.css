@@ -1,0 +1,77 @@
+:root{
+  --background-page: #EAEAEA;
+  --background-article: #FFFFFF;
+  --title-color: #1B1B1B;
+  --especific-text: #8F8F8F;
+  --common-text: #39393A;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--background-page);
+  font-family: 'Roboto', sans-serif;
+}
+
+article{
+  background: var(--background-article);
+  width: 70vw;
+  height: 80%;
+  margin: 1.8rem auto;
+  padding: 3rem 1.8rem 1.8rem;
+  border-radius: .5rem;
+}
+
+h1{
+  font-size: 1.75rem;
+  color: var(--title-color);
+  text-align: center;
+}
+
+figure.imageEnveloper {
+  text-align: right;
+  color: var(--especific-text);
+  font-size: .75rem;
+}
+
+figure.imageEnveloper img {
+  width: 100%;
+  height: 13.5rem;
+  object-fit: cover;
+  border-radius: .5rem;
+  margin-bottom: .5rem;
+}
+
+.content{
+  width: 90%;
+  padding: 1.8rem;
+  color: var(--common-text);
+}
+
+h2{
+  font-size: 1.25rem;
+  color: var(--title-color);
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+li{
+  line-height: 2.5rem;
+}
+p{  
+  text-indent: 1.8rem;
+  text-align: justify;
+}
+footer{
+  text-align: center;
+  margin-bottom: 1.8rem;
+  color: var(--especific-text);
+  font-size: .75rem;
+  font-style: italic;
+}
+footer a{
+  text-decoration: none;
+  color: var(--common-text);
+}
