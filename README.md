@@ -6,8 +6,8 @@
 <p align="justify">Criar uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo.</p>
 
 <p>Tempo dedicado ao projeto:</p>
-<a href="https://wakatime.com/badge/user/5a2e9d27-6aba-49b5-9755-f97369431e1e/project/d4cfa87d-aeb4-4020-9352-b22c5b7a09dd">
-  <img src="https://wakatime.com/badge/user/5a2e9d27-6aba-49b5-9755-f97369431e1e/project/d4cfa87d-aeb4-4020-9352-b22c5b7a09dd.svg" alt="wakatime">
+<a href="https://wakatime.com/badge/user/5a2e9d27-6aba-49b5-9755-f97369431e1e/project/5874c62f-464c-441e-a0fe-69bf60ab7ec8">
+<img src="https://wakatime.com/badge/user/5a2e9d27-6aba-49b5-9755-f97369431e1e/project/5874c62f-464c-441e-a0fe-69bf60ab7ec8.svg" alt="wakatime">
 </a>
 
 <h2 align="center">Tecnologias</h2>
@@ -18,7 +18,7 @@
 
 <h2 align="center">Layout</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/huannvictor/rocketNews/main/assets/rocketnews.png" alt="Layout">
+  <img src="https://raw.githubusercontent.com/huannvictor/PaginaDeReceita/master/images/layout.png" alt="Layout">
 </div>
 
 <p align="right"> Huann Almeida </p>
