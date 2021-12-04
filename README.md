@@ -1,6 +1,6 @@
 <h1 align="center">Desafio Descover Rocketseat: Página de Receitas</h1> 
 
-<p align="center"><em>Confira o resultado do desafio em: <a href="https://huannvictor.github.io/paginaDeReceitas/">huannvictor.github.io/paginaDeReceitas</a></em></p>
+<p align="center"><em>Confira o resultado do desafio em: <a href="https://huannvictor.github.io/PaginaDeReceita/">huannvictor.github.io/PaginaDeReceita</a></em></p>
 
 <h2 align="center">Sobre o Desafio</h2>
 <p align="justify">Criar uma página web de uma receita com título, imagem, lista de ingredientes e modo de preparo.</p>
